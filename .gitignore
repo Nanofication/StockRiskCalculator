@@ -18,7 +18,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-config/
+/config/
 lib/
 lib64/
 parts/
